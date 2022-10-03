@@ -19,16 +19,14 @@ I'm an Information Technology enthusiast with a love for the Python programming 
 <br>
 <br>
 ## Expertise
+<img align="left" alt="html5" src="https://img.shields.io/badge/HTML-E34F26?&style=plastic&logo=html5&logoColor=white"/>
+<img align="left" alt="css3" src="https://img.shields.io/badge/CSS-1572B6?&style=plastic&logo=css3&logoColor=white"/>
+<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=plastic&logo=javascript&logoColor=white"/>
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
 <img align="left" alt="django" src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
 <img align="left" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=plastic&logo=wordpress&logoColor=white"/>
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-47A248?&style=plastic&logo=mongodb&logoColor=white"/>
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?&style=plastic&logo=mysql&logoColor=white"/>
-<img align="left" alt="google-search-console" src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?&style=plastic&logo=google-search-console&logoColor=white"/>
-<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=plastic&logo=javascript&logoColor=white"/>
-<img align="left" alt="html5" src="https://img.shields.io/badge/HTML-E34F26?&style=plastic&logo=html5&logoColor=white"/>
-<img align="left" alt="css3" src="https://img.shields.io/badge/CSS-1572B6?&style=plastic&logo=css3&logoColor=white"/>
-
 <br>
 <br>
 
