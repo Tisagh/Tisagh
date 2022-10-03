@@ -10,6 +10,7 @@ I'm an Information Technology enthusiast with a love for the Python programming 
 <br>
 <br>
 ## Connect
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tisagh-chase-a7a44587/)
 <img align="left" alt="medium" src="https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&logoColor=white"/>(	https://medium.com/@Tisagh
 )
