@@ -19,7 +19,7 @@ I'm an Information Technology enthusiast with a love for the Python programming 
 )
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/-Stack%20Overflow-orange?style=plastic&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/8901377/tisagh)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-blue?&style=plastic&logo=facebook&logoColor=white"/>](https://www.facebook.com/tisagh/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/Tisagh)
+
 
 <br>
 <br>
